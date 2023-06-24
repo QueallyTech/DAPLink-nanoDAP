@@ -28,5 +28,5 @@ const board_info_t g_board_info = {
     .family_id = kStub_HWReset_FamilyID,
     .target_cfg = &target_device,
     .board_vendor = "STMicroelectronics",
-    .board_name = "NUCLEO-F103RB",
+    .board_name = "DAPLink-F103RB",
 };
